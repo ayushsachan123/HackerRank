@@ -17,6 +17,7 @@ int main()
             printf("%d ", j);
         printf("\n");
     }
+    
     for (i = 2; i <= n; i++)
     {
         for (j = n; j >= i; j--)

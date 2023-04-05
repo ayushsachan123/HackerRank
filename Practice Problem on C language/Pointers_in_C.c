@@ -2,7 +2,7 @@
 
 void update(int *a, int *b)
 {
-    // Complete this function
+  
     int d = *a + *b;
     printf("%d\n", d);
     int e = *a - *b;
